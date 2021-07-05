@@ -5,7 +5,7 @@ $subject = $_POST['subject'];
 $message= $_POST['message'];
 
 
-$email_from = 'praj@website.com';
+$email_from = 'https://prajwalg22.github.io/craftycreater.github.io/';
 
 $email_subject = 'New Form Submission';
 
